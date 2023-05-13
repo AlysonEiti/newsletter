@@ -11,4 +11,4 @@ List of everything used in the project
 ![Screenshot of desktop page](https://github.com/AlysonEiti/newsletter/blob/main/image/screenshot_desktop.png)
 
 * Mobile
-![Screenshot of mobile page](https://github.com/AlysonEiti/scss-spa/blob/main/imagens/screenshot_mobile.png)
+![Screenshot of mobile page](https://github.com/AlysonEiti/newsletter/blob/main/image/screenshot_mobile.png)
